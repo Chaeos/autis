@@ -1,0 +1,7 @@
+{
+  "name": "Autis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
